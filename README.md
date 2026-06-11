@@ -26,5 +26,5 @@ Prosta gra w Pythonie, w której program losuje liczbę, a gracz musi ją odgadn
 
 2\. Pobierz plik `guessthenumber.py`  
 
-3\. Uruchom w terminalu python zgadnijliczbe.py
+3\. Uruchom w terminalu python guessthenumber.py
 
